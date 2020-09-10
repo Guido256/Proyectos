@@ -1,0 +1,98 @@
+*{padding: 0;
+   margin: 0;
+   
+
+}
+
+body{
+    border-top: solid 6px gainsboro;
+    color: #1d1d1d;
+    font: 14px Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.body-background{ 
+    background-color: whitesmoke;
+    background-image: url("../Images/body-background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+}
+
+h1{
+    font-family: 'Lexend Peta', sans-serif;
+    color: midnightblue;
+    font-weight: 900;
+    box-shadow: black;
+}
+
+.site-description{
+    font: 14px helvetica, sans-serif;
+    line-height: 20px;
+    color: #999;
+    font-weight: 200;
+}
+
+.body-color{
+    background-color:whitesmoke;
+    box-shadow: black;
+    border-radius: 5px;
+}
+
+.header-color{
+    background-image: url("../Images/header-background.jpg");
+    border: midnightblue solid 10px;
+    box-shadow: black;
+    background-size: cover;
+    border-top: none;
+    border-bottom: none;
+}
+
+.bg-nav{
+    background-color: whitesmoke;
+    border: midnightblue solid 10px;
+    box-shadow: black;
+    border-top:midnightblue inset 1px;
+    border-bottom: midnightblue inset 1px;
+    background-image: url("../Images/header-background.jpg");
+    background-size: cover;
+}
+.btn-color{
+    color: midnightblue;
+border: 1px solid midnightblue;
+}
+
+.btn-color:hover{
+    color:white;
+border: 1px solid midnightblue;
+background-color: midnightblue;
+}
+
+.facebook{
+    color: gray;
+    font-size: 60px;
+}
+.instagram {
+    color:gray;
+    font-size: 60px;
+}
+
+.linkedin{
+    color:gray;
+    font-size: 60px;
+}
+
+.twitter{
+    color:gray;
+    font-size: 60px;
+}
+
+.image-border{
+    border: 0px 10px 0px 10px solid midnightblue;
+}
+
+.btn-border{
+border-radius: 5px;
+}
