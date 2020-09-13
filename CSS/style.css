@@ -28,6 +28,13 @@ h1{
     box-shadow: black;
 }
 
+h2{
+  font-family: 'Lexend Peta', sans-serif;
+    color: midnightblue;
+    font-weight: 900;
+    box-shadow: black;
+}
+
 .site-description{
     font: 14px helvetica, sans-serif;
     line-height: 20px;
