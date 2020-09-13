@@ -22,8 +22,8 @@ body{
     background-image: url("../Images/body-background.jpg");
     background-size: cover;
     background-attachment: fixed;
-
-    
+background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1{
@@ -51,7 +51,8 @@ h2{
 .body-color{
     background-color:whitesmoke;
     box-shadow: black;
-    border-radius: 5px;
+    
+    
     min-height: 100vh;
     
 }
